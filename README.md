@@ -1,5 +1,5 @@
 # Simple Notes App
-This is a simple notes app built with React and Django.
+This is a simple notes app built with React and Django..
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
